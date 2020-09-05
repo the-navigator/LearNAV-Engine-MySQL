@@ -1,0 +1,5 @@
+C:\Users\hp\Documents\Visual Studio 2012\Projects\LearNAV Engine\LearNAV Engine\bin\Debug\LearNAV Engine.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\LearNAV Engine\LearNAV Engine\bin\Debug\LearNAV Engine.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\LearNAV Engine\LearNAV Engine\obj\Debug\LearNAV Engine.dll
+C:\Users\hp\Documents\Visual Studio 2012\Projects\LearNAV Engine\LearNAV Engine\obj\Debug\LearNAV Engine.pdb
+C:\Users\hp\Documents\Visual Studio 2012\Projects\LearNAV Engine\LearNAV Engine\obj\Debug\LearNAV Engine.csprojResolveAssemblyReference.cache
